@@ -31,3 +31,5 @@ In a project you will find accessibility features:
 * Card component
 * Modal component
 * Tabs component
+
+Preview
